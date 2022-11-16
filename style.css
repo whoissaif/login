@@ -160,7 +160,7 @@ input[type="submit"]:active
 }
 .login-btn {
     background-color: #12cd08;
-    border-radius: 10%;
+    border-radius: 5%;
     width: 30%;
    
 }
