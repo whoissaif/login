@@ -158,6 +158,35 @@ input[type="submit"]:active
   color: rgb(207, 14, 14);
   text-align: center;
 }
+.login-btn {
+    background-color: #12cd08;
+    border-radius: 10%;
+    width: 30%;
+   
+}
+
+.login-btn a {
+    color: #8f8f8f;
+    font-weight: 10px;
+    font-size: 1rem;
+    padding: 10px 20px;
+    width: fit-content;
+}
+.login-btn a:link {
+    text-decoration: none;
+    
+} 
+
+.login-btn a:visited {
+    color: #8f8f8f ;
+}
+.login-btn a:hover {
+    color: black;
+}
+.login-btn a:active {
+    color: rgb(233, 101, 13);
+
+}
 
 
 
